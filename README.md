@@ -12,13 +12,13 @@ Estamos na etapa de estruturação, então o código só possui o html.
 🔸index.html
 
 ✅✅ Tags utilizadas
-<!DOCTYPE html> <!--Define o tipo de Documento-->
-<html lang="pt-br"></html> <!--Inicia o código e definindo o idioma-->
-<head></head> <!--Cabeçalho do site-->
-<bory></bory> <!--Corpo do site-->
-<title></title> <!--Titulo do site, ou seja, é o nome que aparece na aba do navegador-->
-<h1></h1> <!-- Titulo Principal-->
-<p></p> <!-- Paragrafo da Pagina-->
+<!-- <!DOCTYPE html> Define o tipo de Documento-->
+<!-- <html lang="pt-br"></html> <!--Inicia o código e definindo o idioma-->
+<!-- <head></head> <!--Cabeçalho do site-->
+<!-- <bory></bory> <!--Corpo do site-->
+<!-- <title></title> <!--Titulo do site, ou seja, é o nome que aparece na aba do navegador-->
+<!-- <h1></h1> <!-- Titulo Principal-->
+<!-- <p></p>  Paragrafo da Pagina-->
 
 
 
