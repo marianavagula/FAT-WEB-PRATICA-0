@@ -1,11 +1,11 @@
 # FAT-WEB-PRATICA-0
 
-✅✅Apresentação:
+✅✅Apresentação: <br>
 Olá, sou a Mariana da Silva Vagula e estou realizando o curso de Programação Web de 120 horas pela FAT no ano de 2025.
 
-✅✅Objetivo e observações: 
-Esse código foi desenvolvido no módulo 1 e é a atividade prática 0 da aula 2.
-Criei um site de uma padaria qualquer e a minha chama "Padaria da Mariana".
+✅✅Objetivo e observações: <br>
+Esse código foi desenvolvido no módulo 1 e é a atividade prática 0 da aula 2.<br>
+Criei um site de uma padaria qualquer e a minha chama "Padaria da Mariana".<br>
 Estamos na etapa de estruturação, então o código só possui o html.
 
 ✅✅Desenvolvimento e estrutura do projeto: <br>
