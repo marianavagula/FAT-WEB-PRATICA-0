@@ -17,7 +17,8 @@ html lang="pt-br"></html --> Inicia o código e definindo o idioma
 head --> Cabeçalho do site
 <!-- <bory></bory> <!--Corpo do site-->
 <!-- <title></title> <!--Titulo do site, ou seja, é o nome que aparece na aba do navegador-->
-<!-- <h1></h1> <!-- Titulo Principal-->
+<!-- <h1></h1> <!-- Titulo Principal--> 
+<img width="107" height="34" alt="image" src=images/imagem1.png/>
 <img width="107" height="34" alt="image" src="https://github.com/user-attachments/assets/d6dd31f9-f6c9-47bb-a125-6b5cb4ee5241" /> --> Inicia o paragrafo da Pagina
 
 
