@@ -18,7 +18,14 @@ head --> Cabeçalho do site
 <!-- <bory></bory> <!--Corpo do site-->
 <!-- <title></title> <!--Titulo do site, ou seja, é o nome que aparece na aba do navegador-->
 <!-- <h1></h1> <!-- Titulo Principal--> 
-<img width="107" height="34" alt="image" src=images/imagem1.png/> --> Inicia o paragrafo da Pagina
+<img height="34" alt="image" src=images/DOCTYPE.png/> --> Define o tipo de Documento
+<img height="34" alt="image" src=images/HTML.png/> --> Inicia o código e definindo o idioma
+<img height="34" alt="image" src=images/HEAD.png/> --> Cabeçalho do site
+<img height="34" alt="image" src=images/BORY.png/> --> Corpo do site
+<img height="34" alt="image" src=images/TITLE.png/> --> Titulo do site, ou seja, é o nome que aparece na aba do navegado
+<img height="34" alt="image" src=images/H1.png/> --> Titulo Principal. Tem vários tamanhos: h1, h2, h3 e h4. Quanto maior o número, menor o texto
+<img height="34" alt="image" src=images/P.png/> --> Parágrafo
+
 
 
 
